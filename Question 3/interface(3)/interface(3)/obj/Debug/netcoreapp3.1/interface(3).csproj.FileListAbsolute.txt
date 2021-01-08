@@ -1,0 +1,26 @@
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).exe
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).deps.json
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).runtimeconfig.json
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).runtimeconfig.dev.json
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).dll
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).pdb
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).csprojAssemblyReference.cache
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).AssemblyInfoInputs.cache
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).AssemblyInfo.cs
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).csproj.CoreCompileInputs.cache
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).dll
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).pdb
+D:\Semester\Sixth semester\C#\Lab\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).genruntimeconfig.cache
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).exe
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).deps.json
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).runtimeconfig.json
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).runtimeconfig.dev.json
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).dll
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\bin\Debug\netcoreapp3.1\interface(3).pdb
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).csprojAssemblyReference.cache
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).AssemblyInfoInputs.cache
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).AssemblyInfo.cs
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).dll
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).pdb
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Lab 7\3\interface(3)\interface(3)\obj\Debug\netcoreapp3.1\interface(3).genruntimeconfig.cache
